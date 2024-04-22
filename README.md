@@ -22,12 +22,12 @@ Explore a curated selection of my work, showcasing a diverse range of projects a
 Here are some highlights from my portfolio:
 
 ### Logo Design
-![Logo Design 1](/image/pic (1).jpg)
-![Logo Design 2](/image/pic (2).jpg)
+![Logo Design 1](image/pic (1).jpg)
+![Logo Design 2](image/pic (2).jpg)
 
 ### Social Media Graphics
-![Social Media Graphic 1](/image/pic (3).jpg)
-![Social Media Graphic 2](/path/to/social2.jpg)
+![Social Media Graphic 1](image/pic (3).jpg)
+![Social Media Graphic 2](image.jpg)
 
 ### Branding Materials
 ![Branding Material 1](/path/to/branding1.jpg)
