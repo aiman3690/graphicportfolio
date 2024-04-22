@@ -35,9 +35,9 @@ Here are some highlights from my portfolio:
 
 ## Let's Connect
 Ready to embark on a creative journey together? I'm always eager to collaborate on exciting new projects and explore fresh opportunities. Feel free to reach out and let's discuss how we can turn your ideas into impactful visuals that leave a lasting impression.
-
-- [Linkldin](https://www.linkedin.com/in/zuhaib-hussain-butt-6628141a4/?originalSubdomain=pk)
-- [Github](https://github.com/zuhaibbutt786)
-- [Kaggle](https://www.kaggle.com/zuhaibbutt)
-- [Facebook](https://www.facebook.com/zuhaib.butt.50/)
+- [offical number](+923420975922)
+- [Linkldin](https://www.linkedin.com/in/)
+- [Github](https://github.com/)
+- [Kaggle](https://www.kaggle.com/)
+- [Facebook](https://www.facebook.com/)
 
