@@ -21,17 +21,18 @@ Explore a curated selection of my work, showcasing a diverse range of projects a
 
 Here are some highlights from my portfolio:
 
-### Logo Design
+### Social Media Graphics / ### Branding Materials
 ![Logo Design 1](image/pic (1).jpg)
 ![Logo Design 2](image/pic (2).jpg)
-
-### Social Media Graphics
 ![Social Media Graphic 1](image/pic (3).jpg)
-![Social Media Graphic 2](image.jpg)
+![Social Media Graphic 2](image/pic (4).jpg)
+![Social Media Graphic 3](image/pic (5).jpg)
+![Social Media Graphic 4](image/pic (6).jpg)
+![Social Media Graphic 5](image/pic1 (1).jpg)
+![Social Media Graphic 6](image/pic1 (2).jpg)
+![Social Media Graphic 7](image/pic1 (3).jpg)
 
-### Branding Materials
-![Branding Material 1](/path/to/branding1.jpg)
-![Branding Material 2](/path/to/branding2.jpg)
+
 ## Let's Connect
 Ready to embark on a creative journey together? I'm always eager to collaborate on exciting new projects and explore fresh opportunities. Feel free to reach out and let's discuss how we can turn your ideas into impactful visuals that leave a lasting impression.
 
