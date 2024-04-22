@@ -35,7 +35,7 @@ Here are some highlights from my portfolio:
 
 ## Let's Connect
 Ready to embark on a creative journey together? I'm always eager to collaborate on exciting new projects and explore fresh opportunities. Feel free to reach out and let's discuss how we can turn your ideas into impactful visuals that leave a lasting impression.
-- [offical number](https://wa.me/+923420975922))
+- [offical number](https://wa.me/+923420975922)
 - [Linkldin](https://www.linkedin.com/in/)
 - [Github](https://github.com/)
 - [Kaggle](https://www.kaggle.com/)
