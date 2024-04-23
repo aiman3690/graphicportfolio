@@ -12,8 +12,8 @@ I believe in the power of design to not only communicate messages but to evoke e
 
 
 ## Education
-- M.S,Computer Science | University of Engineering and Technology- Lahore - Pakistan(_january 2024_)	 			        		
-- B.S,Software Engineering | GIFT University - Gujranwala - Pakistan (_Oct 2021_)
+-Graphic designing,CBT Dress Making 	 			        		
+- B.S
 
 
 ## Portfolio Highlights
@@ -37,7 +37,7 @@ Here are some highlights from my portfolio:
 Ready to embark on a creative journey together? I'm always eager to collaborate on exciting new projects and explore fresh opportunities. Feel free to reach out and let's discuss how we can turn your ideas into impactful visuals that leave a lasting impression.
 - [offical number](https://wa.me/+923420975922)
 - [Linkldin](https://www.linkedin.com/in/)
-- [Github](https://github.com/)
-- [Kaggle](https://www.kaggle.com/)
-- [Facebook](https://www.facebook.com/)
+- [YOUTUBE](https://youtube.com/@Angelina_3690?si=ukwgzOkPXcQk0uns)
+- [Instagaram](https://www.instagram.com/aimanshahid336?igsh=MzJoY3I4cWVna3V2)
+- [Facebook](https://www.facebook.com/profile.php?id=61557059637303&mibextid=ZbWKwL)
 
