@@ -36,8 +36,7 @@ Here are some highlights from my portfolio:
 ## Let's Connect
 Ready to embark on a creative journey together? I'm always eager to collaborate on exciting new projects and explore fresh opportunities. Feel free to reach out and let's discuss how we can turn your ideas into impactful visuals that leave a lasting impression.
 - [offical number](https://wa.me/+923420975922)
-- [Linkldin](https://www.linkedin.com/in/)
-- [YOUTUBE](https://youtube.com/@Angelina_3690?si=ukwgzOkPXcQk0uns)
+- [Linkldin](www.linkedin.com/in/aiman-shahid-768514305)
 - [Instagaram](https://www.instagram.com/aimanshahid336?igsh=MzJoY3I4cWVna3V2)
 - [Facebook](https://www.facebook.com/profile.php?id=61557059637303&mibextid=ZbWKwL)
 
